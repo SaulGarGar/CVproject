@@ -1,0 +1,25 @@
+{
+  "name": "CVproject",
+  "authors": [
+    "saulgar <saul.alejandro.garcia.garcia@gmail.com>"
+  ],
+  "description": "curriculum vitae online",
+  "main": "index.html",
+  "keywords": [
+    "curriculum",
+    "vitae"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iron-elements": "PolymerElements/iron-elements#^1.0.10",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.7"
+  }
+}
